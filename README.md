@@ -1,3 +1,32 @@
+# Hi there, I'm Kolawole Adetola 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=KolaAdetola&color=80ED99)
+
+## About Me
+- 🌱 I’m currently learning React and Node.js
+- 👯 I’m looking to collaborate on open-source projects
+- 🤔 I’m looking for help with advanced JavaScript concepts
+- 💬 Ask me about web development and design
+- 📫 How to reach me: kolawoleadetola630@gmail.com
+- ⚡ Fun fact: I love Anime and Badminton
+
+## Skills
+!HTML5
+!CSS3
+!JavaScript
+!Tailwind CSS
+
+## GitHub Stats
+!John's GitHub stats
+
+## Top Languages
+!Top Languages
+
+## Connect with Me
+!LinkedIn
+!Twitter
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KolaAdetola/KolaAdetola/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KolaAdetola/KolaAdetola/output/github-contribution-grid-snake.svg">
