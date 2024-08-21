@@ -21,7 +21,6 @@
 
 ---
 <img src="https://visitcount.itsvg.in/api?id=KolaAdetola&icon=0&color=010409" alt="Profile Views" width="200" height="40">
-[![](https://visitcount.itsvg.in/api?id=KolaAdetola&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KolaAdetola/KolaAdetola/output/github-contribution-grid-snake-dark.svg">
