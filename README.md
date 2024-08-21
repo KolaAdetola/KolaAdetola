@@ -1,6 +1,7 @@
 # Hi there, I'm Kolawole Adetola 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=KolaAdetola&color=80ED99)
+<img src="https://komarev.com/ghpvc/?username=KolaAdetola&color=010409" alt="Profile Views" width="350" height="80">
+
 
 ## About Me
 - 🌱 I’m currently learning React and Node.js
