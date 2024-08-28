@@ -1,5 +1,5 @@
 
-# 💫 About Me:I'm Kolawole Adetola 👋
+# 💫 Hi I'm Kolawole Adetola 👋
 🔭 How to reach me: kolawoleadetola630@gmail.com<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with advanced JavaScript concepts<br>🌱 I’m currently learning React and Node.js<br>💬 Ask me about web development and design<br>⚡ Fun fact: I love Anime and Badminton<br> 
 
 
