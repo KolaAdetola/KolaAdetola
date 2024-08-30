@@ -2,7 +2,6 @@
 # 💫 Hi I'm Kolawole Adetola 👋
 🔭 How to reach me: kolawoleadetola630@gmail.com<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with advanced JavaScript concepts<br>🌱 I’m currently learning React and Node.js<br>💬 Ask me about web development and design<br>⚡ Fun fact: I love Anime and Badminton<br> 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kolao32c) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kolawole.adetola) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kolawole-adetola-45659331b/) 
@@ -16,8 +15,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kolaAdetola&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 
 <img src="https://visitcount.itsvg.in/api?id=KolaAdetola&icon=0&color=010409" alt="Profile Views" width="200" height="40">
 
